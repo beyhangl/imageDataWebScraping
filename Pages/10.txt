@@ -1,0 +1,436 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>All Acer phones - page 11</title>
+<link rel="stylesheet" href="http://cdn.gsmarena.com/vv/assets9/css/gsmarena.css?v=41">
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+
+
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+<link rel="stylesheet" href="http://cdn.gsmarena.com/vv/assets9/css/makers.css?v=21">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Description" content="GSMArena.com: Acer GSM cellphones">
+<meta name="keywords" content="GSM,Acer,gsm,phone,cellphone,information,info,opinion,review,digital phone">
+<link rel="shortcut icon" href="i/favicon.ico" />
+<link rel="canonical" href="http://www.gsmarena.com/acer-phones-f-59-0-p11.php">
+
+<script type='text/javascript' src='http://static.criteo.net/js/ld/publishertag.js'></script>
+</head>
+<body>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://cdn.gsmarena.com/vv/assets8/js/misc.js?v=18"></script>
+<script type="text/javascript" src="http://cdn.gsmarena.com/vv/assets8/js/autocomplete.js?ver=13"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="http://cdn.gsmarena.com/vv/assets9/i/logo.svg"><img src="http://cdn.gsmarena.com/vv/assets9/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="results.php3" method="get" id="topsearch">
+    <input type="hidden" name="sQuickSearch" value="yes">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sName" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">873k</span>
+</a>
+<a href="http://twitter.com/gsmarena_com" class="tw-icon" target="_blank">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">131k</span>
+</a>
+
+<a href="https://plus.google.com/116083888509266864115?prsrc=3" class="gp-icon" target="_blank">
+  <i class="head-icon icon-soc-gplus icomoon-liga"></i>
+  <span class="icon-count">87k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">231k</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup">
+	   <p>
+	     Login with<br />
+	     <a href="login-facebook.php3?rdr=MH58em0yb3dwcXpsMnkyKiYyLzJvLi4xb3dv"><i class="head-icon icon-soc-fb2"></i>Facebook</a>
+	     <a class="g-login" href="login-google.php3?rdr=MH58em0yb3dwcXpsMnkyKiYyLzJvLi4xb3dv"><i class="head-icon icon-soc-gplus"></i>Google</a>
+	   </p>
+	</span>
+ <a href="nickname.php3?sSource=MH58em0yb3dwcXpsMnkyKiYyLzJvLi4xb3dv" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+	<li><a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" target="_blank">Video</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="faq.php3">FAQ</a></li>
+	<li><a href="contact.php3">Contact</a></li>   
+                  
+      </ul>
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+
+<div id="subHeader" class="col">
+<div id="topPromo">		
+		<div class="alt-display is-review" style="background-image: url(http://cdn.gsmarena.com/imgroot/reviews/17/samsung-galaxy-s8/-347x151/gsmarena_002.jpg)">
+		  <a class="table-cell reviews-xl-snazzy" href="samsung_galaxy_s8-review-1603.php">
+			  <div class="module-review-xl-title">
+			 
+			    	<span>Essence distilled</span><br>
+			    	<strong>Samsung Galaxy S8 review</strong>
+			   
+			  
+		 	  </div>
+		 </a>
+	  </div>
+</div><div id="topAdv" class="l-box">
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://a.gsmarena.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://a.gsmarena.com/adclick.php?n=afad88d6' target='_blank'><img src='http://a.gsmarena.com/adview.php?what=zone:5&amp;n=afad88d6' border='0' alt=''></a></noscript>
+</div>   
+</div>
+
+
+<div id="body" class="clearfix">
+
+<div class="main right main-maker l-box col">  
+
+<div class="review-header maker-header hreview">
+<style type="text/css">
+	.review-background {
+
+		background-image: url('http://cdn.gsmarena.com/imgroot/static/headers/makers/acer-2.jpg');
+		background-size: 728px 314px;
+	}
+</style> 
+
+<div class="review-hd overflow darken review-background">
+<div class="article-info">
+<div class="article-info-line border-bottom">
+<div class="blur"></div>
+
+</div>
+<div class="center-stage blur color-accent article-accent">
+<div class="article-hgroup">
+<h1 class="article-info-name">Acer phones</h1>
+</div>
+
+</div>
+<div class="article-info-line">
+<div class="blur bottom"></div>
+<!-- <p class="maker-order">
+Order by:
+<a href="#">Time of release</a> |
+<a href="#">Popularity</a>
+</p> -->
+<ul class="article-info-meta">           
+<li class="article-info-meta-link help help-sort-popularity"><a href="acer-phones-f-59-0-r1-p1.php"><i class="head-icon icon-popularity"></i>Popularity</a></li>
+<li class="article-info-meta-link help help-sort-release sort-active"><a href="#"><i class="head-icon icon-launched"></i>Time of release</a></li> 
+
+
+
+</ul>
+</div>
+</div>
+
+</div>                  
+</div>
+
+
+
+<div id="review-body" class="section-body">
+<div class="makers">
+<ul>
+
+
+
+
+
+
+</ul>
+<br class="clear">
+</div>
+
+</div>
+
+<br class="clearfix">
+
+
+
+
+<div class="review-nav pullNeg col pushT10 ">
+               
+<div class="nav-pages">
+<span>Pages:</span>
+ <a href="acer-phones-59.php">1</a>  <a href="acer-phones-f-59-0-p2.php">2</a>  <a href="acer-phones-f-59-0-p3.php">3</a> </div>
+<div class="col col-1-5 pages-next-prev float-right">
+<a class="pages-prev" href="acer-phones-f-59-0-p10.php" title="Previous page"></a><a class="disabled pages-next" href="#1" title="Next page"></a>
+</div>
+
+
+
+</div>
+
+
+<!-- <div id="body-top-nav-empty">
+</div> -->
+
+<div id='crt-773059'></div>
+<script type='text/javascript'>
+   var crt_773059_layout = {"version":"1.0","configuration":{"rowCount":1,"columnCount":5,"border":{"top":0,"left":0,"bottom":0,"right":0},"borderColor":"#000000","rowSeparatorsHeight":0,"columnSeparatorsWidth":0,"spacing":1,"padding":{"top":0,"left":0,"bottom":0,"right":0},"productSection":{"imagePosition":"Top","imageSize":65,"imageMargin":{"top":25,"left":1,"bottom":1,"right":1},"textSection":{"price":{"fontSize":14,"alignment":"Center","fontFamily":["Arimo"],"normal":{"color":"#777777","bold":true,"italic":false,"underlined":false},"onHover":{"color":"#777777","bold":true,"italic":false,"underlined":false},"margin":{"top":15,"left":1,"bottom":1,"right":1}}},"backgroundColor":"#FFFFFF","padding":{"top":1,"left":1,"bottom":1,"right":1}},"runningElement":{"runningType":"Footer","runningBorder":{"top":0,"left":0,"bottom":0,"right":0},"height":14,"backgroundColor":"#FFFFFF","content":{"fontSize":10,"alignment":"Left","fontFamily":["Arimo"],"normal":{"color":"#777777","bold":false,"italic":false,"underlined":false},"onHover":{"color":"#777777","bold":false,"italic":false,"underlined":false},"margin":{"top":1,"left":0,"bottom":1,"right":1}},"staticText":"Ads by"}}};
+Criteo.DisplayAd(
+   {'zoneid' : 773059,
+    'containerid' : 'crt-773059',
+    'width' : 728,
+    'height' : 200,
+    'layout' : crt_773059_layout
+    });
+</script>
+<div id="773060" style="width:728px;height:90px;display:inline-block;"></div>
+<script type="text/javascript">
+Criteo.DisplayAcceptableAdIfAdblocked({
+   "zoneid": 773060,
+   "containerid": "773060",
+   "callIfNotAdBlocked": function() {
+        document.getElementById("773060").style.display = "none";
+      }
+    });
+</script>
+
+
+
+</div>
+
+<aside class="sidebar col left">
+
+<div class="brandmenu-v2 light l-box clearfix">
+<p class="pad">
+<a href="search.php3" class="pad-single pad-finder">
+<i class="head-icon icon-search-right"></i>
+<span>Phone finder</span></a>
+</p>
+<ul>
+<li><a href="samsung-phones-9.php">Samsung</a></li><li><a href="apple-phones-48.php">Apple</a></li><li><a href="microsoft-phones-64.php">Microsoft</a></li><li><a href="nokia-phones-1.php">Nokia</a></li><li><a href="sony-phones-7.php">Sony</a></li><li><a href="lg-phones-20.php">LG</a></li><li><a href="htc-phones-45.php">HTC</a></li><li><a href="motorola-phones-4.php">Motorola</a></li><li><a href="huawei-phones-58.php">Huawei</a></li><li><a href="lenovo-phones-73.php">Lenovo</a></li><li><a href="xiaomi-phones-80.php">Xiaomi</a></li><li><a href="google-phones-107.php">Google</a></li><li><a href="acer-phones-59.php">Acer</a></li><li><a href="asus-phones-46.php">Asus</a></li><li><a href="oppo-phones-82.php">Oppo</a></li><li><a href="oneplus-phones-95.php">OnePlus</a></li><li><a href="meizu-phones-74.php">Meizu</a></li><li><a href="blackberry-phones-36.php">BlackBerry</a></li><li><a href="alcatel-phones-5.php">Alcatel</a></li><li><a href="zte-phones-62.php">ZTE</a></li><li><a href="toshiba-phones-44.php">Toshiba</a></li><li><a href="vodafone-phones-53.php">Vodafone</a></li><li><a href="gigabyte-phones-47.php">Gigabyte</a></li><li><a href="xolo-phones-85.php">XOLO</a></li><li><a href="lava-phones-94.php">Lava</a></li><li><a href="micromax-phones-66.php">Micromax</a></li><li><a href="blu-phones-67.php">BLU</a></li><li><a href="gionee-phones-92.php">Gionee</a></li><li><a href="vivo-phones-98.php">vivo</a></li><li><a href="leeco-phones-109.php">LeEco</a></li><li><a href="panasonic-phones-6.php">Panasonic</a></li><li><a href="hp-phones-41.php">HP</a></li><li><a href="yu-phones-100.php">YU</a></li><li><a href="verykool-phones-70.php">verykool</a></li><li><a href="maxwest-phones-87.php">Maxwest</a></li><li><a href="plum-phones-72.php">Plum</a></li></ul>
+
+<p class="pad">
+<a href="makers.php3" class="pad-multiple pad-allbrands">
+  <i class="head-icon icon-mobile-phone231"></i>
+  <span>All brands</span>
+</a>
+<a href="rumored.php3" class="pad-multiple pad-rumormill">
+  <i class="head-icon icon-rumored"></i>
+  <span>Rumor mill</span>
+</a>
+</p>
+</div>
+<div class="adv banner-mpu">
+
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://a.gsmarena.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:156&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://a.gsmarena.com/adclick.php?n=afad88d6' target='_blank'><img src='http://a.gsmarena.com/adview.php?what=zone:5&amp;n=afad88d6' border='0' alt=''></a></noscript>
+</div>
+
+
+
+<div class="module reviews-xl-snazzy">
+<h4 class="section-heading">Acer reviews</h4>
+
+<a href="acer_liquid_x2-review-1439.php" class="module-reviews-xl-link">
+  <img class="module-reviews-xl-thumb" src="http://cdn.gsmarena.com/imgroot/reviews/16/acer-liquid-x2/-347x151/gsmarena_000.jpg" alt="Acer Liquid X2 review: Switchboarding">
+  <div class="module-review-xl-title">
+    <span>Switchboarding</span><br>
+    <strong>Acer Liquid X2 review</strong>
+  </div>
+</a>
+<a href="acer_liquid_jade_primo-review-1419.php" class="module-reviews-xl-link">
+  <img class="module-reviews-xl-thumb" src="http://cdn.gsmarena.com/imgroot/reviews/16/acer-jade-primo/-347x151/gsmarena_001.jpg" alt="Acer Liquid Jade Primo review: Windows Prime">
+  <div class="module-review-xl-title">
+    <span>Windows Prime</span><br>
+    <strong>Acer Liquid Jade Primo review</strong>
+  </div>
+</a>
+<a href="acer_liquid_jade_s-review-1237.php" class="module-reviews-xl-link">
+  <img class="module-reviews-xl-thumb" src="http://cdn.gsmarena.com/vv/reviewsimg/acer-liquid-jade-s/thumb_.jpg" alt="Acer Liquid Jade S review: Semi-precious">
+  <div class="module-review-xl-title">
+    <span>Semi-precious</span><br>
+    <strong>Acer Liquid Jade S review</strong>
+  </div>
+</a>
+
+</div>	
+
+
+	
+<div class="module">
+
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336676177&toolId=10026&customId=sky&keyword=Acer+phone&minPrice=50&width=300&height=450&font=1&textColor=333366&linkColor=333333&arrowColor=FFAF5E&color1=63769A&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=3312&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</div>
+
+
+
+</aside>
+
+</div><!-- id body -->
+</div><!-- id outer -->
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="http://cdn2.gsmarena.com/w/css/logo-gsmarena-com.gif" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" href="http://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+<p>
+&copy; 2000-2017 <a href="team.php3">GSMArena.com</a> 
+<a href="http://www.gsmarena.com/switch.php3?ver=mobile&ref=MH58em0yb3dwcXpsMnkyKiYyLzJvLi4xb3dv">Mobile version</a>
+<a href="contact.php3">Contact us</a>
+<a href="advert.php3">Advertising</a>
+<a href="privacy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow">
+  <span class="center">CDN by</span><br />
+  <img src="http://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+
+</div>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('send', 'pageview'
+, { 'dimension2': '2' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html>
